@@ -1,7 +1,10 @@
 # Online Learning Platform with Node.js and EJS
 
 #### Check out our Online Learning Platform in action with this demo video:
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">Demo Video</a>
+Demo
+
+https://github.com/Rohitashsingh89/online-learning-platform/assets/93479842/7f3fe5f0-3aba-40d2-8ad5-f7931e10c94e
+
 
 # Online Learning Platform using Node.js and EJS
 
