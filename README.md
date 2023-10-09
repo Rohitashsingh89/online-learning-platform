@@ -3,8 +3,7 @@
 #### Check out our Online Learning Platform in action with this demo video:
 Demo
 
-https://github.com/Rohitashsingh89/online-learning-platform/assets/93479842/7f3fe5f0-3aba-40d2-8ad5-f7931e10c94e
-
+[Home - StackShare.webm](https://github.com/Rohitashsingh89/online-learning-platform/assets/93479842/8265091a-ba9b-46ef-8854-cbab2583538e)
 
 # Online Learning Platform using Node.js and EJS
 
